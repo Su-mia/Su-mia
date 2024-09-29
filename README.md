@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soumia BOUAOUINA</h1>
 <h3 align="center">AI passionate student / WEB developer, Chasing Code and AI solutions : made in Algeria 🤌🏻🇩🇿</h3>
 
-- 🌱 I’m currently learning **Deep learning and Laravel**
 
 - 👯 I’m looking to collaborate on **innovative solutions to real-world problems**
 
